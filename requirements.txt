@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+pymongo
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-google-genai
+streamlit-mic-recorder
+gTTS
